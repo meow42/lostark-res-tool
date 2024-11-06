@@ -1,0 +1,16 @@
+*.ini
+*.exe
+*.zip
+*.rar
+
+*.lpk
+*.ipk
+*.upk
+*.u
+*.bin
+
+.vscode/
+.temp/
+img/*
+
+README4gitee.md
